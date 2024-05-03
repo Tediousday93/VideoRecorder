@@ -42,7 +42,7 @@
 # 🌳 프로젝트 구조
 
 ## UML Class Diagram
-![VideoRecorder_ClassDiagram](https://github.com/Kyeongjun2/ios-wanted-VideoRecorder/assets/114981173/b9232afe-9415-4ee8-bb5c-c2ba55fdc365)
+![VideoRecorder_ClassDiagram](https://github.com/Tediousday93/VideoRecorder/assets/114981173/d0acf128-fcac-4ce6-8819-ee84de1771d6)
 
 </br>
 
@@ -83,10 +83,9 @@
 
 # 📱 실행화면
 
-
 | VideoList | Recording | VideoPlayer |
 | :--------: | :--------: | :--------: |
-| <Img src = "https://github.com/Kyeongjun2/ios-wanted-VideoRecorder/assets/114981173/93493704-3c8e-417c-a7da-f4a4e9df87d5" height="400">     | <Img src = "https://github.com/Kyeongjun2/ios-wanted-VideoRecorder/assets/114981173/5cb1b60f-37ad-48bd-967e-48f8b3ccfa38" height="400">   | <Img src = "https://github.com/Kyeongjun2/ios-wanted-VideoRecorder/assets/114981173/c043d3b7-296c-4edd-885e-8ac2d7c04adf"  height="400">     |
+| <Img src = "https://github.com/Tediousday93/VideoRecorder/assets/114981173/e6d4ba45-053b-40f0-a0c0-83ec7fa3695f" height="400">     | <Img src = "https://github.com/Tediousday93/VideoRecorder/assets/114981173/eac5ee87-039d-4258-bdd1-750abe0872bc" height="400">   | <Img src = "https://github.com/Tediousday93/VideoRecorder/assets/114981173/f4454ff0-0555-477b-92e1-590d571b2961"  height="400">     |
 
 </br>
 
